@@ -1,0 +1,1357 @@
+.background,
+.background * {
+  box-sizing: border-box;
+}
+.background {
+  background: var(--color-grey-98, #fdfbf9);
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 2907px;
+  position: relative;
+}
+.header {
+  background: var(--color-grey-96, #f8f5f2);
+  padding: 96px 0px 96px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 70px;
+}
+.container {
+  padding: 0px 32px 0px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-s, 24px);
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 896px;
+  max-width: var(--width-896, 896px);
+  position: relative;
+}
+.heading-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.perguntas-frequentes {
+  color: var(--color-azure-23, #1d3c58);
+  text-align: center;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-1-font-family,
+    "PlayfairDisplay-Medium",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-1-font-size,
+    48px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-1-line-height,
+    48px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-1-font-weight,
+    500
+  );
+  position: relative;
+  align-self: stretch;
+}
+.container2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container3 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.horizontal-divider {
+  background: var(--color-orange-59, #c87f65);
+  flex-shrink: 0;
+  width: 96px;
+  height: 2px;
+  position: relative;
+}
+.horizontal-divider2 {
+  background: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-nomad,
+    linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, #b8aca1, #b8aca1)
+  );
+  flex-shrink: 0;
+  width: 48px;
+  height: 2px;
+  position: absolute;
+  left: 0px;
+  top: 8px;
+}
+.esclarecendo-suas-d-vidas-sobre-as-terapias-t-ntricas-e-os-atendimentos {
+  color: var(--color-azure-27, #374151);
+  text-align: center;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-size,
+    18px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-line-height,
+    28px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-weight,
+    400
+  );
+  position: relative;
+}
+.section {
+  padding: 96px 0px 96px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 388px;
+}
+.container4 {
+  padding: 0px 32px 0px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 896px;
+  max-width: var(--width-896, 896px);
+  position: relative;
+}
+.container5 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-m, 32px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.background-shadow {
+  background: var(--color-white-solid, #ffffff);
+  border-radius: 8px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-s, 16px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.heading-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.como-agendar-uma-sess-o {
+  color: var(--color-azure-23, #1d3c58);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-family,
+    "PlayfairDisplay-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-size,
+    20px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-line-height,
+    28px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.voc-pode-agendar-pelo-bot-o-de-whats-app-abaixo-ou-me-enviar-uma-mensagem-direta-no-instagram-carol-tejas {
+  color: var(--color-azure-27, #374151);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.as-terapias-s-o-exclusivas-para-mulheres {
+  color: var(--color-azure-23, #1d3c58);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-family,
+    "PlayfairDisplay-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-size,
+    20px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-line-height,
+    28px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.sim-todos-os-atendimentos-s-o-voltados-exclusivamente-ao-p-blico-feminino {
+  color: var(--color-azure-27, #374151);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-size,
+    16px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-line-height,
+    26px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.qual-a-dura-o-das-sess-es {
+  color: var(--color-azure-23, #1d3c58);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-family,
+    "PlayfairDisplay-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-size,
+    20px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-line-height,
+    28px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.cada-sess-o-tem-dura-o-de-60-minutos-o-que-vai-variar-e-a-quantidade-de-sess-es-dentro-de-cada-jornada {
+  color: var(--color-azure-27, #374151);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-size,
+    16px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-line-height,
+    26px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.para-quem-a-terapia {
+  color: var(--color-azure-23, #1d3c58);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-family,
+    "PlayfairDisplay-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-size,
+    20px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-line-height,
+    28px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.a-terapia-sexual-direcionada-para-todas-as-mulheres-de-todas-as-idades-desde-as-que-tem-alguma-questao-espec-fica-de-trauma-ou-para-aquelas-que-j-se-sentem-realizadas-e-querem-aumentar-seu-repert-rio-e-desenvolver-seu-potencial-org-stico {
+  color: var(--color-azure-27, #374151);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-size,
+    16px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-line-height,
+    26px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.background-shadow2 {
+  background: var(--color-white-solid, #ffffff);
+  border-radius: 8px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-s, 16px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 163px;
+  position: relative;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.onde-s-o-realizados-os-atendimentos {
+  color: var(--color-azure-23, #1d3c58);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-family,
+    "PlayfairDisplay-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-size,
+    20px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-line-height,
+    28px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.os-atendimentos-s-o-realizados-de-forma-presencial-em-campinas-e-vinhedo-sp-a-sess-es-tambem-podem-ser-realizadas-de-forma-on-line {
+  color: var(--color-azure-27, #374151);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-size,
+    16px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-line-height,
+    26px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.as-terapias-t-ntricas-proporcionam-diversos-benef-cios-como-redu-o-do-estresse-e-ansiedade-melhora-da-conex-o-com-o-corpo-equil-brio-energ-tico-desenvolvimento-da-autoconfian-a-expans-o-da-consci-ncia-e-promo-o-de-bem-estar-geral {
+  color: var(--color-azure-27, #374151);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-size,
+    16px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-line-height,
+    26px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.necess-rio-trazer-algo-para-a-sess-o {
+  color: var(--color-azure-23, #1d3c58);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-family,
+    "PlayfairDisplay-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-size,
+    20px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-line-height,
+    28px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.n-o-necess-rio-trazer-nada-espec-fico-recomendo-apenas-vestir-roupas-confort-veis-e-se-poss-vel-evitar-o-uso-de-perfumes-fortes {
+  color: var(--color-azure-27, #374151);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-size,
+    16px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-line-height,
+    26px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.o-que-o-tantra-nao {
+  color: var(--color-azure-23, #1d3c58);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-family,
+    "PlayfairDisplay-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-size,
+    20px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-line-height,
+    28px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.sim-pedimos-apenas-que-o-cancelamento-ou-reagendamento-seja-feito-com-pelo-menos-24-horas-de-anteced-ncia {
+  color: var(--color-azure-27, #374151);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-size,
+    16px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-line-height,
+    26px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.section2 {
+  background: var(--color-grey-96, #f8f5f2);
+  padding: 80px 0px 80px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 2110px;
+}
+.heading-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.ainda-tem-d-vidas {
+  color: var(--color-azure-23, #1d3c58);
+  text-align: center;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-2-font-family,
+    "PlayfairDisplay-Medium",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-2-font-size,
+    36px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-2-line-height,
+    40px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-2-font-weight,
+    500
+  );
+  position: relative;
+  align-self: stretch;
+}
+.container6 {
+  padding: 0px 0px 8px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 672px;
+  max-width: var(--width-672, 672px);
+  position: relative;
+}
+.entre-em-contato-para-esclarecer-suas-quest-es-ou-agendar-uma-sess-o-personalizada {
+  color: var(--color-azure-27, #374151);
+  text-align: center;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-size,
+    18px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-line-height,
+    28px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-weight,
+    400
+  );
+  position: relative;
+}
+.component-2 {
+  background: #1d3c58;
+  border-radius: 6px;
+  padding: 13px 25px 13px 25px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.svg-margin {
+  padding: 0px 8px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 28px;
+  height: 20px;
+  position: relative;
+}
+.svg {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.component-1 {
+  flex: 1;
+  width: 20px;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.text {
+  color: var(--color-white-solid, #ffffff);
+  text-align: center;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-size,
+    16px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-line-height,
+    24px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-weight,
+    500
+  );
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer {
+  background: var(--color-azure-23, #1d3c58);
+  padding: 48px 0px 48px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 2498px;
+}
+.container7 {
+  padding: 0px 32px 0px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-m, 32px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1280px;
+  max-width: var(--width-1280, 1280px);
+  position: relative;
+}
+.container8 {
+  display: flex;
+  flex-direction: row;
+  gap: var(--item-spacing-m, 32px);
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container9 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-s, 16px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.carol-tejas {
+  color: var(--color-grey-96, #f8f5f2);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-family,
+    "PlayfairDisplay-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-size,
+    20px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-line-height,
+    28px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.container10 {
+  opacity: 0.8;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.terapia-sexual-para-o-bem-estar-feminino {
+  color: var(--color-grey-96, #f8f5f2);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-size,
+    16px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-line-height,
+    24px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.container11 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-12 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.link-margin {
+  padding: 0px 0px 0px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-32 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-13 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.component-14 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.menu {
+  color: var(--color-grey-96, #f8f5f2);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-family,
+    "PlayfairDisplay-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-size,
+    20px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-line-height,
+    28px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.list {
+  opacity: 0.8;
+  display: flex;
+  flex-direction: column;
+  gap: var(--item-spacing-8, 8px);
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text2 {
+  color: var(--color-grey-96, #f8f5f2);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-size,
+    16px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-line-height,
+    24px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-weight,
+    400
+  );
+  position: relative;
+}
+.container12 {
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.heading-32 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+}
+.contato {
+  color: var(--color-grey-96, #f8f5f2);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-family,
+    "PlayfairDisplay-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-size,
+    20px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-line-height,
+    28px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-heading-3-font-weight,
+    400
+  );
+  position: relative;
+}
+.container13 {
+  opacity: 0.8;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 44px;
+}
+.svg-margin2 {
+  padding: 0px 8px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 24px;
+  height: 16px;
+  position: relative;
+}
+.svg2 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+}
+.component-15 {
+  flex: 1;
+  width: 16px;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.atendimento-em-campinas-sp {
+  color: var(--color-grey-96, #f8f5f2);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-size,
+    16px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-line-height,
+    24px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-weight,
+    400
+  );
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container14 {
+  opacity: 0.8;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 76px;
+}
+.component-16 {
+  flex: 1;
+  width: 16px;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.carol-tejas2 {
+  color: var(--color-grey-96, #f8f5f2);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-size,
+    16px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-line-height,
+    24px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-weight,
+    400
+  );
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-5 {
+  border-radius: 6px;
+  border-style: solid;
+  border-color: #fdfbf9;
+  border-width: 1px;
+  padding: 9px 17px 9px 17px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 0px;
+  top: 116px;
+}
+.component-17 {
+  flex: 1;
+  width: 16px;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.text3 {
+  color: var(--color-grey-96, #f8f5f2);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-size,
+    14px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-line-height,
+    20px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-weight,
+    500
+  );
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.horizontal-divider3 {
+  background: var(--color-grey-96, #f8f5f2);
+  opacity: 0.2;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1px;
+  position: relative;
+}
+.container15 {
+  opacity: 0.7;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._2025-carol-tejas-todos-os-direitos-reservados {
+  color: var(--color-grey-96, #f8f5f2);
+  text-align: center;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-size,
+    14px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-line-height,
+    20px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-regular-font-weight,
+    400
+  );
+  position: relative;
+  align-self: stretch;
+}
+.nav {
+  background: var(--color-white-solid, #ffffff);
+  padding: 16px 0px 16px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+}
+.container16 {
+  padding: 0px 32px 0px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1280px;
+  max-width: var(--width-1280, 1280px);
+  position: relative;
+}
+.container17 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.link {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.carol-tejas3 {
+  color: var(--color-azure-23, #1d3c58);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-link-font-family,
+    "PlayfairDisplay-Medium",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-link-font-size,
+    20px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-link-line-height,
+    28px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-semantic-link-font-weight,
+    500
+  );
+  position: relative;
+}
+.container18 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-42 {
+  padding: 8px 12px 8px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text4 {
+  color: var(--color-azure-27, #374151);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-size,
+    14px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-line-height,
+    20px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-weight,
+    500
+  );
+  position: relative;
+}
+.link-margin2 {
+  padding: 0px 0px 0px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-43 {
+  border-style: solid;
+  border-color: #c27c54;
+  border-width: 0px 0px 2px 0px;
+  padding: 8px 12px 10px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text5 {
+  color: var(--color-orange-59, #c87f65);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-size,
+    14px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-line-height,
+    20px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-weight,
+    500
+  );
+  position: relative;
+}
+.component-6 {
+  background: #1d3c58;
+  border-radius: 6px;
+  padding: 9px 17px 9px 17px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.text6 {
+  color: var(--color-white-solid, #ffffff);
+  text-align: left;
+  font-family: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-family,
+    "Inter-Medium",
+    sans-serif
+  );
+  font-size: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-size,
+    14px
+  );
+  line-height: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-line-height,
+    20px
+  );
+  font-weight: var(
+    --508b9c66-4b14-4de7-96c4-f4965d626062-00-2mfq1c5kyro1ospockreplitdev-inter-medium-font-weight,
+    500
+  );
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
